@@ -1,2 +1,2 @@
 build:
-	@docker build -t eugenebalaban/laravel-node . --no-cache
+	@docker build -t andreyfilippov/laravel-node . --no-cache
